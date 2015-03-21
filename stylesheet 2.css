@@ -1,0 +1,89 @@
+
+html {
+padding-top: 50px;
+padding-bottom: 50px;
+background: url('img/trees.png') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+	margin: 0;
+}
+
+.imgheader {
+position: relative;
+float: right;
+right: 40px;
+top: -10px;
+
+}
+
+
+
+.header {
+
+	font-family: Raleway;
+	font-size: 30px;
+
+}
+
+.subtitle {
+
+	font-family: Raleway;
+	font-size: 20px;
+}
+
+.title {
+
+	font-size: 30px;
+}
+
+
+
+.paragraph-title {
+
+	text-align: center;
+	font-family: Raleway;
+	text-decoration: underline;
+	text-decoration: bold;
+	font-weight: 600;
+	font-size: 25px;
+	padding-top: 10px;
+}
+
+.subheader {
+	text-align: center;
+	font-family: Raleway;
+	font-size: 20px;
+
+
+}
+
+.paragraph-text {
+
+	text-align: center;
+	font-family: Raleway;
+	font-size: 15.7px;
+	line-height: 30px;
+
+}
+
+
+
+.whitebox {
+	height: 1100px;
+	width: 900px;
+	padding: 40px 40px 40px 40px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	border: 2px solid black;
+
+
+
+
+
+}
